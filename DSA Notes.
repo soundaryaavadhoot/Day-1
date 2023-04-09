@@ -1,0 +1,17 @@
+Learn about space and time complexity.
+
+Time Complexity.
+     Relation between input size and running time (Operations).
+Best Case --> (1)
+Average Case --> 0(n+1/2)
+Worst Case -->0(n)
+ 
+Compare:  0(n)   0(n^2)   0(n^3)
+ n=1       1        1        1
+ n=2       2        4        8
+ n=3       3        9        27
+ 10⁵       10⁵      10¹⁰     10³⁰
+
+Space Complexity.
+     Space complexity depends upon inputsize.
+Space--> Constant
